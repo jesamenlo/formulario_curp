@@ -1,0 +1,113 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+  background-color: white;
+}
+.contall{
+  width: 1200px;
+  margin: auto;
+}
+.gris{
+  width: 100%;
+  height: 200px;
+  background-color: #d6d6d6;
+  text-align: center;
+  padding-top: 15px;
+}
+.formulario{
+  width: 1100px;
+  margin: auto;
+}
+.titl1{
+  font-size: 26px;
+  margin: 10px 0;
+}
+.line1{
+  background-color: #d6d6d6;
+  border: none;
+  height: 2px;
+  width: 1100px;
+  margin: auto;
+}
+.line2{
+  border: none;
+  background-color: #621332;
+  width: 50px;
+  height: 10px;
+}
+.moraito{
+  color: #621332;
+  font-weight: bold;
+}
+.input-group {
+  margin-bottom: 20px;
+}
+.input-group label{
+  font-weight: bold;
+}
+.three-columns {
+  display: flex;
+  justify-content: space-between;
+}
+.three-columns > div {
+  width: 32%;
+}
+.btncurp{
+  background-color: #621332;
+  display: inline-block;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  line-height: 35px;
+}
+.btncurp a{
+  text-decoration: none;
+  color: white;
+}
+.campos{
+  width: 350px;
+  padding: 10px;
+	margin:3px;
+	padding: 5px;
+  border-radius: 5px;
+  border: 1px #d6d6d6 solid;
+}
+.camposgrande{
+  width: 100%;
+  padding: 10px;
+	margin:3px;
+	padding: 5px;
+  border-radius: 5px;
+  border: 1px #d6d6d6 solid;
+  height: 300px;
+}
+.btnenv{
+  background-color: #621332;
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  line-height: 35px;
+  border: none;
+}
+.btnenv button{
+  text-decoration: none;
+  color: white;
+}
+.cuadrojo{
+  width: 100%;
+  height: 150px;
+  background-color: #621332;
+  text-align: center;
+}
+.blanquito{
+  color: white;
+  font-weight: bold;
+}
